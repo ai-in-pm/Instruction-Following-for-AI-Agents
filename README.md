@@ -1,10 +1,6 @@
 # Instruction Following for AI Agents
 
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="Instruction Following Framework" width="200" height="200">
-</p>
-
-<p align="center">
   <em>A comprehensive framework for enabling AI agents to follow complex instructions with precision and adaptability</em>
 </p>
 
